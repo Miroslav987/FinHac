@@ -152,7 +152,7 @@ function NavBar() {
               justifyContent: "space-evenly",
             }}>
             <Link to="/">Home</Link>
-            {user.email === user.email ? (
+            {user.email === "mirsichkar@gmail.com" ? (
               <Link to="/add">Add Products</Link>
             ) : null}
             {location.pathname === "/list" ? (
