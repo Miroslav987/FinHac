@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "category": "home",
+      "title": "bfgbv",
+      "model": "bfgbfvf",
+      "description": "fgbfgfvdfvfffffffffffffffffffddddddddddddddddddddddddddddddddddddd",
+      "price": 436,
+      "color": "black",
+      "img1": "https://sadurscy.pl/ru/blog/wp-content/uploads/2019/12/d48ac6040e3478cdf0e32f1919539f5d.jpg",
+      "img2": "https://sadurscy.pl/ru/blog/wp-content/uploads/2019/12/d48ac6040e3478cdf0e32f1919539f5d.jpg",
+      "img3": "https://sadurscy.pl/ru/blog/wp-content/uploads/2019/12/d48ac6040e3478cdf0e32f1919539f5d.jpg",
+      "id": 3
+    },
+    {
+      "category": "cdd1",
+      "title": "csdcsd1",
+      "model": "csdcs1",
+      "description": "cdscsd1",
+      "price": "34340",
+      "color": "dcsdcsd1",
+      "img1": "vdfvdfv1",
+      "img2": "fdvdf1",
+      "img3": "dfvdv1",
+      "id": 4
+    },
+    {
+      "category": "car",
+      "title": "sdfvdfvd",
+      "model": "fvfdvfd",
+      "description": "ddsvsdfvfdvdffd f fdg fdb fg b fgb fnbhg jh m j gv fd vdf v fd fb fg bfgbfgbjfbvfdhvdjvhvhdfjhdfjvhfjbkfjgjbk lkfjhfg lkfgj fg",
+      "color": "red",
+      "price": 12345,
+      "img1": "https://cars.usnews.com/images/article/202102/127885/1_2021_chevy_corvette.jpg",
+      "img2": "https://cars.usnews.com/images/article/202102/127885/1_2021_chevy_corvette.jpg",
+      "img3": "https://cars.usnews.com/images/article/202102/127885/1_2021_chevy_corvette.jpg",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "user": "azret@gmail.com",
+      "comment": "Hello",
+      "card": 3,
+      "hour": 14,
+      "minute": 11,
+      "id": 1
+    },
+    {
+      "user": "azret@gmail.com",
+      "comment": "egrtgrtg",
+      "card": 1,
+      "hour": 15,
+      "minute": 15,
+      "id": 2
+    },
+    {
+      "user": "azret@gmail.com",
+      "comment": "dsvdsfv",
+      "card": 3,
+      "hour": 15,
+      "minute": 36,
+      "id": 4
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "comment": "Good",
+      "card": 6,
+      "hour": 16,
+      "minute": 55,
+      "id": 5
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "comment": "fvdfv",
+      "card": 5,
+      "hour": 17,
+      "minute": 9,
+      "id": 6
+    },
+    {
+      "user": "mirsichkar@gmail.com",
+      "comment": "qwertyuiop[]j j j j j j j j j j j j j j j j asdfghjkl;'\\zxcvbnm,./",
+      "card": 5,
+      "hour": 17,
+      "minute": 14,
+      "id": 7
+    },
+    {
+      "user": "azret@gmail.com",
+      "comment": "Hello",
+      "card": 5,
+      "hour": 21,
+      "minute": 19,
+      "id": 8
+    },
+    {
+      "comment": "ykkk",
+      "card": 5,
+      "hour": 21,
+      "minute": 21,
+      "id": 9
+    }
+  ]
+}

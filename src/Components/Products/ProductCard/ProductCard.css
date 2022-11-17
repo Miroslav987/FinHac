@@ -1,0 +1,83 @@
+.cardText p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.block1 {
+  margin-left: 10px;
+  border-radius: 100px;
+  width: 10vw;
+  height: 30px;
+  border: 4px solid rgb(205, 205, 205);
+}
+.card {
+  width: 25vw;
+  background: #1b1b1b69;
+  box-shadow: 0px 0px 32px -10px #00ff0b;
+  letter-spacing: 1px;
+  border-radius: 20px;
+}
+
+.cardImg {
+  height: 100%;
+}
+/* .card:hover {
+  box-shadow: 0px 0px 5px 10px rgba(137, 137, 137, 0.711);
+} */
+
+.stcolor {
+  color: rgb(255, 255, 255);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* .block {
+  position: relative;
+  z-index: 4;
+  width: 23vw;
+  border-radius: 25px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0), #27272700);
+}
+
+.block:before,
+.block:after {
+  content: "";
+  position: absolute;
+  z-index: 5;
+  left: 10px;
+  top: 5px;
+  background: linear-gradient(
+    45deg,
+    #fb0094,
+    #00aeff,
+    #00ff00,
+    #ffff00,
+    #ff0000,
+    #fb0094,
+    #3131ff,
+    #00ff00,
+    #ffff00,
+    #ff0000
+  );
+
+  background-size: 400%;
+  width: calc(95% + 4px);
+  height: calc(98% + 4px);
+  z-index: -1;
+  animation: steam 20s linear infinite;
+}
+
+@keyframes steam {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.block:after {
+  filter: blur(50px);
+} */

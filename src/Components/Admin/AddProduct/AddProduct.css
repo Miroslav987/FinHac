@@ -1,0 +1,17 @@
+#form-add {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+}
+
+.outlined-basic {
+  width: 100%;
+}
+
+#add-title {
+  margin: 20px auto;
+  width: 40%;
+  font-size: 40px;
+  text-align: center;
+}

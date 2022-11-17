@@ -1,0 +1,29 @@
+.mySwiper .swiper-wrapper {
+  justify-content: center;
+}
+.mySwiper .swiper-slide {
+  margin: 40px 0;
+  cursor: pointer;
+}
+.mySwiper .swiper-slide.swiper-slide-thumb-active {
+  border-bottom: 5px solid #1b5e20;
+}
+
+.mySwiper2 img {
+  width: 100%;
+}
+.mySwiper img {
+  width: 100%;
+}
+.blockDetail {
+  background: black;
+  color: white;
+}
+.Com span {
+  width: 100px;
+}
+@media all and (max-width: 1300px) {
+  #DetInfo {
+    width: 82vw;
+  }
+}

@@ -1,0 +1,9 @@
+.textBG {
+  width: 100%;
+  height: 100vh;
+}
+.tr {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
